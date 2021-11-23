@@ -395,7 +395,7 @@ function App(props) {
                     <div className={classes.underline}/>
                     <br /><br />
                     <Typography variant="h5">
-                      Movitivating, inspiring, and empowering team members to do their best work.
+                      Motivating, inspiring, and empowering team members to do their best work.
                     </Typography>
                     <br />
                     <Typography variant="h6">
